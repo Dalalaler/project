@@ -25,7 +25,7 @@ SECRET_KEY = 'qw+8hgmzk2@e46j&1kp&hopol+u!n#b#ex_aa6+3i$es(0vbqu'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["localhost", "127.0.0.1", "repatik.herokuapp.com"]
 
 
 # Application definition
