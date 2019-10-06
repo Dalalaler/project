@@ -1,5 +1,5 @@
 default:
-  SECRET_KEY: ""
+  SECRET_KEY: 'qw+8hgmzk2@e46j&1kp&hopol+u!n#b#ex_aa6+3i$es(0vbqu'
   DEBUG: true
   ALLOWED_HOSTS: []
 
