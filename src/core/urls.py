@@ -20,5 +20,6 @@ urlpatterns = [
     path('', include('home.urls')),
     path('ru/', include('home.urls')),
     path('eng/', include('home.urls')),
+    path('elmuse/', include('home.urls')),
     path('admin/', admin.site.urls),
 ]
