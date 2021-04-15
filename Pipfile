@@ -10,5 +10,6 @@ black = "==19.3b0"
 django = "*"
 dynaconf = {extras = ["yaml"],version = "*"}
 
+
 [requires]
 python_version = "3.7"
